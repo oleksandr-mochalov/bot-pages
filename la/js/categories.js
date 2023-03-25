@@ -1,6 +1,8 @@
 const categories = [
-  { name: 'LA', items: [
-    { name: 'DEV Concierge Page', section: 'dev_test_mocg_concierge' },
+  { name: 'LA - DEV', items: [
+    { name: 'Concierge [DEV]', section: 'dev_test_mocg_concierge' },
+    { name: 'Recorder [DEV]', section: 'dev_test_mocg_recorder' },
+    { name: 'Election [DEV]', section: 'dev_test_mocg_election' },
     // { name: 'DEV Kitchen', section: 'site-gs-dev-kitchen' },
     // { name: 'DEV P.Match', section: 'site-gs-dev-price-promise' },
     // { name: 'DEV SMS Home', section: 'site-gs-dev-sms-homepage' },
